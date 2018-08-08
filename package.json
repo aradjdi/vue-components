@@ -1,0 +1,39 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.0.0-rc.10",
+    "@storybook/vue": "^4.0.0-alpha.16",
+    "glob-loader": "^0.3.0",
+    "lerna": "^3.0.0-rc.0",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.7"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

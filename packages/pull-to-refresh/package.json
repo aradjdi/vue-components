@@ -1,0 +1,10 @@
+{
+  "name": "pull-to-refresh",
+  "version": "1.0.0",
+  "description": "PullToRefresh Web Component",
+  "author": "Ahmed Radjdi <ahmed.radjdi@mousquetaires.com>",
+  "private": true,
+  "scripts": {
+    "build": "vue-cli-service build --target wc --name st-pull-to-refresh ./export.js"
+  }
+}
