@@ -1,6 +1,6 @@
 {
   "name": "pull-to-refresh",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "PullToRefresh Web Component",
   "author": "Ahmed Radjdi <ahmed.radjdi@mousquetaires.com>",
   "private": true,
