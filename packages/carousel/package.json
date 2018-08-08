@@ -1,9 +1,8 @@
 {
   "name": "carousel",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Carousel Web Component",
   "author": "Ahmed Radjdi <ahmed.radjdi@mousquetaires.com>",
-  "private": true,
   "scripts": {
     "build": "vue-cli-service build --target wc --name st-carousel ./export.js"
   }
