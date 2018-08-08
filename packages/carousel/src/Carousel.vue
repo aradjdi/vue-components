@@ -9,7 +9,7 @@
     </div>
 
     <div class="Carousel-content">
-      <slot>Fallback content here</slot>
+      <slot>Fallback content here titi</slot>
     </div>
   </div>
 </template>
